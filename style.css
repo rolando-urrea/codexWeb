@@ -82,16 +82,7 @@ a:hover {
 }
 
 .loginform input[type="submit"]:hover {
-	padding: 10px 10px;
-	margin-right: 10px;
-	color: #FFFFFF;
-	background: #7B6A74;
-  	border: 1px solid #000000;
-	border-radius: 3px;
-	width: 200px;
-	font-family: 'Helvetica';
-	font-size: 20px;
-	font-weight: 100;
+	background: #7B6A74;	
 }
 
 input:required {
