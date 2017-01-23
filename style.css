@@ -30,18 +30,6 @@ p {
 	margin-bottom: 48px;
 }
 
-a {
-	color: #7B6A74;	border-bottom: 4px solid #7B6A74;
-	font-family: 'Helvetica';
-	font-weight: 700;
-	text-decoration: none;
-}
-
-a:hover {
-	border-bottom: 4px solid #74808B;
-	color: #74808B;
-}
-
 .loginform ul {
   	padding: 0;
   	margin: 0;
