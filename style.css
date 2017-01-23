@@ -1,0 +1,74 @@
+body {
+    background: #F0F0F0;
+}
+
+h1 {
+	color: #576175;
+	font-family: 'Helvetica';
+	font-size: 60px;
+	font-weight: 100;
+	letter-spacing: -0.03em;
+	margin-bottom: 36px;
+}
+
+h1:before {
+	background: #576175;
+	content: '';
+	display: block;
+	height: 24px;
+	margin-bottom: 36px;
+	width: 64px;
+}
+
+p {
+	color: #7B6A74;
+	font-family: 'Helvetica';
+	font-size: 28px;
+	font-weight: 100;
+	line-height: 38px;
+	letter-spacing: -0.02em;
+	margin-bottom: 48px;
+}
+
+a {
+	color: #7B6A74;	border-bottom: 4px solid #7B6A74;
+	font-family: 'Helvetica';
+	font-weight: 700;
+	text-decoration: none;
+}
+
+a:hover {
+	border-bottom: 4px solid #74808B;
+	color: #74808B;
+}
+
+.loginform ul {
+  	padding: 0;
+  	margin: 0;
+
+}
+
+.loginform li {
+  	display: inline;
+	color: #576175;
+	font-family: 'Helvetica';
+	font-size: 20px;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+
+.loginform input {
+	padding: 10px 10px;
+  	margin-right: 10px;
+  	border: 1px solid #576175;
+	border-radius: 3px;
+	width: 200px;
+	font-family: 'Helvetica';
+	font-size: 20px;
+	font-weight: 100;
+}
+
+input:required {
+	border: 1px solid #576175;
+}
